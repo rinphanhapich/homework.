@@ -1,0 +1,20 @@
+h1{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 50px;
+}
+img{
+    width: 100%;
+}
+#active{
+    background-color: teal;
+    color: orange;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
